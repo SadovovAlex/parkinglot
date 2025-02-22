@@ -3,7 +3,7 @@
 
 # Demo
 <video width="640" height="480" controls>
-  <source src="https://github.com/SadovovAlex/parkinglot/raw/main/video1.mp4" type="video/mp4">
+  <source src="https://github.com/SadovovAlex/parkinglot/raw/refs/heads/main/src-video.mp4" type="video/mp4">
   Ваш браузер не поддерживает встроенные видео.
 </video>
 
