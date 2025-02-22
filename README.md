@@ -1,5 +1,5 @@
-# parkinglot
-Детектор свободных парковочных мест с использованием Yolo
+# Parking Free Lot (Yolo)
+Детектор свободных парковочных мест с использованием Yolo v11
 
 # Demo
 [Скачать видео](https://github.com/SadovovAlex/parkinglot/raw/main/video1.mp4)
