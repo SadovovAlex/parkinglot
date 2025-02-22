@@ -2,10 +2,7 @@
 Детектор свободных парковочных мест с использованием Yolo
 
 # Demo
-<video width="640" height="480" controls>
-  <source src="https://github.com/SadovovAlex/parkinglot/raw/refs/heads/main/src-video.mp4" type="video/mp4">
-  Ваш браузер не поддерживает встроенные видео.
-</video>
+[![Demo Video](https://img.youtube.com/vi/KzB6Gb/default.jpg)](https://github.com/SadovovAlex/parkinglot/raw/main/video1.mp4)
 
 #Prerequest
 Install cv2 and ultralytics
