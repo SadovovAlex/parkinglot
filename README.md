@@ -1,9 +1,8 @@
 # parkinglot
 Детектор свободных парковочных мест с использованием Yolo
 
-#Demo
-[![Demo Video]([http://share.gifyoutube.com/KzB6Gb.gif](https://github.com/SadovovAlex/parkinglot/blob/main/video1.mp4))]()
-
+# Demo
+[![Demo Video]()](https://github.com/SadovovAlex/parkinglot/blob/main/video1.mp4)
 #Prerequest
 Install cv2 and ultralytics
 pip install opencv-python ultralytics
