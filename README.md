@@ -2,6 +2,8 @@
 Детектор свободных парковочных мест с использованием Yolo v11
 
 # Demo
+![image](https://github.com/user-attachments/assets/a89b1eef-d94d-49c3-9a46-b6ee068adbb7)
+
 [Скачать видео](https://github.com/SadovovAlex/parkinglot/raw/main/video1.mp4)
 
 # Превью видео
